@@ -1,0 +1,1 @@
+<input type="text" class="w-full"  placeholder="Send a message"/>
